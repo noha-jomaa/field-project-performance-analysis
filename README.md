@@ -26,3 +26,6 @@ This project presents an Excel-based dashboard designed to analyze the performan
 
 ## Data Disclaimer
 All data used in this project is simulated and created for learning and portfolio demonstration purposes only.
+## Dashboard Preview
+
+![Project Dashboard](dashboard.png)
